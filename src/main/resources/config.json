@@ -6,8 +6,8 @@
   "giveGift": true,
   "upLive": "0",
   "chargeForLove": "0",
-  "devicePlatform": "Windows10",
+  "devicePlatform": "Windows",
   "coinAddPriority": 1,
   "skipDailyTask": false,
-  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69"
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3861.400 QQBrowser/10.7.4313.400"
 }
